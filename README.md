@@ -11,6 +11,7 @@ This project showcases how Power BI can be used for comprehensive financial repo
 ✅ Statement of Changes in Equity (SOCE)
 ✅ General Ledger Reports for In-Depth Analysis
 
+
 🎯 Power BI Enhancements Used
 Advanced DAX Calculations for financial insights, including:
 Cash Flow Values
@@ -22,19 +23,17 @@ Slicers for dynamic filtering
 Cards & KPIs for key financial metrics
 Line Charts & Matrix Tables for in-depth financial analysis
 🔗 Project Files
-📂 Power BI Template (.pbit) – This file contains the report structure, visuals, and DAX calculations, but does NOT include any actual data. Users can connect their own General Ledger (GL) dataset to use the report.
+📂 Power BI Template (.pbix) – This file contains the report structure, visuals, and DAX calculations, but does NOT include any actual data. Users can connect their own General Ledger (GL) dataset to use the report.
 
-🎯 Why Use This Template?
-📊 Power BI is not just for dashboards—it can be your entire financial reporting engine!
-💰 Automate financial statements & reporting while keeping data private
-🚀 Use this template to analyze your own financial data
 
 🔍 How to Use This Project?
-1️⃣ Download the .pbit file from this repository
+1️⃣ Download the .pbix file from this repository
 2️⃣ Open it in Power BI
 3️⃣ Connect your own General Ledger (GL) dataset
 4️⃣ Explore the interactive financial reports
 5️⃣ Check out the DAX formulas for financial calculations
+
+![FiModPlusFinancialModelingGIF](https://github.com/user-attachments/assets/68827bfa-606b-48c2-a6b5-75072e00e905)
 
 
 
